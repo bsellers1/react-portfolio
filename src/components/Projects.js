@@ -20,10 +20,10 @@ const Projects = () => {
                                 TrainTracker
                             </span>
                             <div className="pt-8 text-center">
-                                <a href="/">
+                                <a href="https://github.com/drewjordan414/cta-train-tracker">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Github</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://drewjordan414.github.io/cta-train-tracker/">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Livelink</button>
                                 </a>
                             </div>
@@ -38,10 +38,10 @@ const Projects = () => {
                                 Lyceum
                             </span>
                             <div className="pt-8 text-center">
-                                <a href="/">
+                                <a href="https://github.com/AlanDBalan/Lyceum-The-Forum-for-Philosophical-Debate">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Github</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://powerful-woodland-62433-bbf66ef730e4.herokuapp.com/">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Livelink</button>
                                 </a>
                             </div>
@@ -56,10 +56,10 @@ const Projects = () => {
                                 Glitchbook
                             </span>
                             <div className="pt-8 text-center">
-                                <a href="/">
+                                <a href="https://github.com/kumih0/GlitchBook">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Github</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://glitchbook-72c348d487cc.herokuapp.com/">
                                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Livelink</button>
                                 </a>
                             </div>
